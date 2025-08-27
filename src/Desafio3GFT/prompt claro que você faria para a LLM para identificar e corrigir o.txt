@@ -1,0 +1,8 @@
+"Tenho um array/lista e quero imprimir cada elemento:
+
+lista = ['Ana', 'Bruno', 'Carlos']
+for i de 0 até lista.tamanho:
+    imprimir(lista[i])
+
+Recebo erro de 'acesso fora dos limites'. 
+Explique o que estou fazendo de errado, como calcular corretamente o limite do índice e me dê dicas para evitar esse tipo de erro em loops no futuro."
